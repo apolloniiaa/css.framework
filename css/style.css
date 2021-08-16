@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.btn-coral {
+  background-color: coral;
+  color: #fff;
+  border: 1px solid lightcoral;
+}
+
+.btn-coral:hover {
+  color: #fff;
+}
+
+.text-lightgrey {
+  color: #525252;
+}
